@@ -1,2 +1,1 @@
-# password_gen
-gen z
+Генератор паролей
